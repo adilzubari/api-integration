@@ -1,0 +1,38 @@
+{
+  "name": "@adilzubari/api-integration",
+  "version": "0.0.1",
+  "description": "Library for API Integration",
+  "main": "index.js",
+  "bin": {
+    "kamboh": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "express-generator",
+    "nodejs",
+    "javascript",
+    "web-development",
+    "project-starter",
+    "automation",
+    "dev-tools",
+    "developers",
+    "API",
+    "integration",
+    "library"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adilzubari/api-integration.git"
+  },
+  "author": "Muhammad Adil Kamboh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adilzubari/api-integration/issues"
+  },
+  "homepage": "https://github.com/adilzubari/api-integration#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
